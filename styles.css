@@ -1,0 +1,15 @@
+body {
+  color: #FF82FB;
+  background: #EAE8FF;
+}
+img {
+  border: 5px solid ;
+  border-radius: 75%;
+  object-fit: cover;
+}
+.info {
+  color:purple;
+}
+h2 {
+text-align: center;
+}
